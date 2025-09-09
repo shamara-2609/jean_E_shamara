@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("minhatvapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+156fc292a6c6ce431ed43379886e404c8ae1a4b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bda5fe9870663ff93d01c7a71e3fa31be54cf52d")]
 [assembly: System.Reflection.AssemblyProductAttribute("minhatvapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("minhatvapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
