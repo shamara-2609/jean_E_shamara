@@ -1,0 +1,15 @@
+/workspaces/jean_E_shamara/minhatvapp/bin/Debug/net8.0/minhatvapp
+/workspaces/jean_E_shamara/minhatvapp/bin/Debug/net8.0/minhatvapp.deps.json
+/workspaces/jean_E_shamara/minhatvapp/bin/Debug/net8.0/minhatvapp.runtimeconfig.json
+/workspaces/jean_E_shamara/minhatvapp/bin/Debug/net8.0/minhatvapp.dll
+/workspaces/jean_E_shamara/minhatvapp/bin/Debug/net8.0/minhatvapp.pdb
+/workspaces/jean_E_shamara/minhatvapp/obj/Debug/net8.0/minhatvapp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/jean_E_shamara/minhatvapp/obj/Debug/net8.0/minhatvapp.AssemblyInfoInputs.cache
+/workspaces/jean_E_shamara/minhatvapp/obj/Debug/net8.0/minhatvapp.AssemblyInfo.cs
+/workspaces/jean_E_shamara/minhatvapp/obj/Debug/net8.0/minhatvapp.csproj.CoreCompileInputs.cache
+/workspaces/jean_E_shamara/minhatvapp/obj/Debug/net8.0/minhatvapp.sourcelink.json
+/workspaces/jean_E_shamara/minhatvapp/obj/Debug/net8.0/minhatvapp.dll
+/workspaces/jean_E_shamara/minhatvapp/obj/Debug/net8.0/refint/minhatvapp.dll
+/workspaces/jean_E_shamara/minhatvapp/obj/Debug/net8.0/minhatvapp.pdb
+/workspaces/jean_E_shamara/minhatvapp/obj/Debug/net8.0/minhatvapp.genruntimeconfig.cache
+/workspaces/jean_E_shamara/minhatvapp/obj/Debug/net8.0/ref/minhatvapp.dll
